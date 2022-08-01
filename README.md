@@ -1,5 +1,3 @@
-# nuxt-store
-
 ## Build Setup
 
 ```bash
